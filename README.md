@@ -1,2 +1,3 @@
-# nixos-configs
-This repository contains my NixOS configurations
+# NixOS configuration files
+
+This repository contains my NixOS configuration files.
